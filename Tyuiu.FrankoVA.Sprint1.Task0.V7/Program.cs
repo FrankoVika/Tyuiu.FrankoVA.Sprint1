@@ -1,4 +1,5 @@
-﻿using Tyuiu.FrankoVA.Sprint1.Task0.V7.Lib;
+﻿
+using Tyuiu.FrankoVA.Sprint1.Task0.V7.Lib;
 namespace Tyuiu.FrankoVA.Sprint1.Task0.V7
 {
     internal class Program
