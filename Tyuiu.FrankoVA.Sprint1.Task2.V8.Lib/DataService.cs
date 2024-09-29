@@ -5,7 +5,7 @@ namespace Tyuiu.FrankoVA.Sprint1.Task2.V8.Lib
     {
         public int CalculatePerimetr(int a, int b)
         {
-            return a+b;
+            return (a+b)*2;
         }
     }
 }

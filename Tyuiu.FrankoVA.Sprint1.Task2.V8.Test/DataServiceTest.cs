@@ -11,7 +11,7 @@ namespace Tyuiu.FrankoVA.Sprint1.Task2.V8.Test
             int a = 1;
             int b = 5;
             var res = ds.CalculatePerimetr(a, b);
-            Assert.AreEqual(6.0, res);
+            Assert.AreEqual(12.0, res);
         }
     }
 }
