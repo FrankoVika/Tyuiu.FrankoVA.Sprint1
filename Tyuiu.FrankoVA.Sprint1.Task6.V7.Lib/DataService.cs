@@ -13,7 +13,7 @@ namespace Tyuiu.FrankoVA.Sprint1.Task6.V7.Lib
             {
                 if (words[i].Length > 0) 
                 {
-                    result += words[i].Substring(0, words[i].Length - 1) + " ";
+                    result += words[i].Substring(0, words[i].Length - 1) + "";
                 }
             }
             return result;
