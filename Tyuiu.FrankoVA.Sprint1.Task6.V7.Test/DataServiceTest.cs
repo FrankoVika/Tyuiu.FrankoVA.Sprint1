@@ -8,7 +8,7 @@ namespace Tyuiu.FrankoVA.Sprint1.Task6.V7.Test
         [TestMethod]
         public void ValidExpression(string value)
         {
-            value = Regex.Replace(value, @"\b(\w+)(\w)\b", "$1");
+           
 
         }
     }
