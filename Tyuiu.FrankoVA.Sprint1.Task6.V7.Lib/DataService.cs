@@ -5,9 +5,9 @@ namespace Tyuiu.FrankoVA.Sprint1.Task6.V7.Lib
     {
         public string DeleteLastLetter(string value)
         {
-            string result = " "; 
+            string result = ""; 
 
-            string[] words = value.Split('');
+            string[] words = value.Split(' ');
 
             for (int i = 0; i < words.Length; i++) 
             {
